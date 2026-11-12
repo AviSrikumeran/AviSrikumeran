@@ -6,9 +6,9 @@
 
 I build systems that amplify what people can do. Whether it's enterprise data pipelines, autonomous game engines, or wildfire detection models, the throughline is the same: take something hard and make it accessible.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avisrikumeran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-sri-kumeran-695191203/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://avisrikumeran.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviskumeran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aus4@illinois.edu)
 
 ---
 
@@ -52,7 +52,11 @@ I build systems that amplify what people can do. Whether it's enterprise data pi
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
+
+![Avi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviSrikumeran&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
