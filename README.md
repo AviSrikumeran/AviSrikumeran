@@ -52,11 +52,7 @@ I build systems that amplify what people can do. Whether it's enterprise data pi
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Avi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviSrikumeran&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
