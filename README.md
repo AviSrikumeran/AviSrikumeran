@@ -19,4 +19,3 @@ I build systems that amplify what people can do. Whether it's enterprise data pi
 | [**Granite Query**](https://granitequery.live) | Python, IBM Granite, Transformers, HuggingFace | 🔍 Fine tuned IBM Granite models for intelligent text to SQL querying; live and deployed |
 | [**Walkyn Far**](https://walkynfar.com) | Luau, Roblox Studio, Multi Agent Orchestration, DeepSeek, Claude API, SQLite | 🎮 Autonomous game development engine with multi model agent pipeline; procedural world generation; in development |
 | [**Wildfire Detection CNN**](https://github.com/avisrikumeran) | Python, PyTorch, OpenCV | 🔥 CNN for real time wildfire detection from satellite imagery; provisional patent 63/538,870 |
-| **IBM MCP Tools** | Python, MCP, REST APIs, IBM Cloud | ⚡ Built Model Context Protocol tools for enterprise metadata import at scale on IBM WatsonX clusters |
