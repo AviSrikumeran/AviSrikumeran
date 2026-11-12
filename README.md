@@ -56,7 +56,7 @@ I build systems that amplify what people can do. Whether it's enterprise data pi
 
 ## 📊 GitHub Stats
 
-![Avi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avisrikumeran&show_icons=true&theme=tokyonight&hide_border=true)
+![Avi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AviSrikumeran&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
